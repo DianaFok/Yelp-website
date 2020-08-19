@@ -10,4 +10,4 @@ A prototype of the popular food site, yelp.com. This demonstrates responsive web
 I built this by breaking down section by section of the original site. 
 
 ## Lessons Learned
-Writing and mapping out my code before I began was extremely helpful as it cuts down significantly on time.
+Writing and mapping out my code before I began was extremely helpful as it cut down significantly on time.
